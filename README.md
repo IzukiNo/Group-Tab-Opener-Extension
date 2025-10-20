@@ -48,7 +48,7 @@ Group_Tab_Opener/
 ├── popup.css              # Modern UI styling with dark mode
 ├── background.js          # Service worker for tab management
 ├── sample-groups.json     # Example data for testing
-└── icons/
+└── assets/
     ├── icon16.png         # 16x16 extension icon
     ├── icon48.png         # 48x48 extension icon
     └── icon128.png        # 128x128 extension icon
