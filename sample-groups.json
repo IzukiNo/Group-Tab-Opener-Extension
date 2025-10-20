@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Development Tools",
+        "urls": [
+            "https://github.com",
+            "https://stackoverflow.com",
+            "https://developer.mozilla.org",
+            "https://code.visualstudio.com",
+            "https://www.npmjs.com"
+        ]
+    },
+    {
+        "name": "Social Media",
+        "urls": [
+            "https://twitter.com",
+            "https://linkedin.com",
+            "https://facebook.com",
+            "https://instagram.com"
+        ]
+    },
+    {
+        "name": "Productivity",
+        "urls": [
+            "https://gmail.com",
+            "https://calendar.google.com",
+            "https://drive.google.com",
+            "https://trello.com",
+            "https://notion.so"
+        ]
+    },
+    {
+        "name": "News & Learning",
+        "urls": [
+            "https://news.ycombinator.com",
+            "https://reddit.com",
+            "https://medium.com",
+            "https://dev.to"
+        ]
+    }
+]

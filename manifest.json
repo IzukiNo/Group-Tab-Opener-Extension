@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Group Tab Opener",
+    "version": "3.5.1",
+    "description": "Create, organize, and open URL groups with dark mode, search, and custom colors",
+    "permissions": [
+        "storage",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Group Tab Opener",
+        "default_icon": {
+            "16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"
+        }
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
